@@ -15,8 +15,8 @@ h1 {
 
 h2 { 
   text-align: center;
-  color: White;
-  font-size: 75px;
+  color: #38578c; 
+  font-size: 50px;
   font-family: "Anton", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -24,7 +24,7 @@ h2 {
 
 h3 {
   color: white;
-  font-size: 60px;
+  font-size: 30px;
   font-family: "Anton", sans-serif;
   font-weight: 400;
   font-style: normal;
