@@ -1,4 +1,9 @@
 body{ 
 background: rgb(58,116,179);
 background: linear-gradient(302deg, rgba(58,116,179,1) 0%, rgba(99,153,241,1) 22%, rgba(249,254,255,1) 100%);
-text-align: center;}
+text-align: center;
+.anton-regular {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
