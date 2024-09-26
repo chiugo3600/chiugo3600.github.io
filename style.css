@@ -3,9 +3,9 @@ body{
 background: rgb(216,232,250);
 background: radial-gradient(circle, rgba(216,232,250,1) 0%, rgba(189,213,255,1) 38%, rgba(249,254,255,1) 100%);
 text-align: center;
-color: #2e518c
-   
 }
-
+h1{ color:#38578c
+   font-size:80px
+  }
 
   
